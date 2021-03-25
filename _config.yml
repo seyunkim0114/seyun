@@ -34,7 +34,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  seyunkim0114
 
 # Build settings
-theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
