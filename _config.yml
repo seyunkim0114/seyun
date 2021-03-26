@@ -21,12 +21,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin    : "default"
 
 # Site settings
-title: "Hello stranger"
+title: "Seyun Kim"
 #disqus:
 #google_analytics:
-#location: New York, NY
-#skin: daylight
-email: "seyun0114kim@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -56,21 +53,16 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
-
+# Sidebar settings
 author:
   name: "Seyun Kim"
   avatar: "profile.jpg"
-  bio:
-    "Studying computer science, wandering everywhere"
+  bio: >-
+    Cooper Union for the Advancement of Science and Art 23'
+    Bachelor of Science in Engineering, General Engineering
   location: New York, NY
   #email: seyun0114kim@gmail.com
   links:
-    #- label: "Made Mistakes"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://mademistakes.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/seyunkim0114"
