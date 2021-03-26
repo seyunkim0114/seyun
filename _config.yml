@@ -17,7 +17,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+minimal_mistakes_skin    : "default"
 
+# Site settings
 title: "Hello stranger"
 #disqus:
 #google_analytics:
@@ -32,14 +35,27 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  seyunkim0114
+repository: seyunkim0114/seyunkim0114.github.io
 
 # Build settings
 #theme: "minimal-mistakes-jekyll"
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
-  - jekyll-remote-theme
+  - jemoji
   - jekyll-include-cache
-remote-theme: "mmistakes/minimal-mistakes@4.22.0"
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 
 author:
   name: "Seyun Kim"
