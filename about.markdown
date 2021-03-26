@@ -6,18 +6,16 @@ permalink: /about/
 **Education**
 - McLean High School
 - Cooper Union for the Advancement of Science and Art
-- Seoul National University
 
 **Extra Curriculars**
-- Cooper Union IGVC (Intelligent Ground Vehicle Competition) team
-- Cooper Union TAMID
-- Cooper Union Soccer team
-- Engineers Without Borders in Cooper Union Chapter
-- Cooper Union Women's Volleyball team
+- Member of Cooper Union IGVC (Intelligent Ground Vehicle Competition) team
+- Member of Cooper Union TAMID
+- Member of Cooper Union Soccer team
+- Member of Engineers Without Borders in Cooper Union Chapter
+- Member of Cooper Union Women's Volleyball team
 - Member of Korean Association of Cooper Union
 
 **Academic Achievements**
-- Presented Titanic Survivor in Kaggle Competition
 - Cooper Union Half Tuition Scholarship and Innovator Merit Scholarship
 - First Place in New York Times Writing Contest
 
