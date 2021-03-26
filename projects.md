@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-**AI Othello**
+AI Othello (C++)
 
-**Bouncing Ball Game (C++)**
+Bouncing Ball Game (C++)
 
-**Deep Learning Projects**
+Deep Learning Projects (Python)
