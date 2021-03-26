@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Projects
-permalnk: /projects/
+permalink: /projects/
 ---
 
 **AI Othello**
