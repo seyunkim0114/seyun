@@ -1,4 +1,7 @@
 main:
+  - title: Education
+    url: /education/
+    description: Education
   - title: Projects
     url: /projects/
     description: Projects
