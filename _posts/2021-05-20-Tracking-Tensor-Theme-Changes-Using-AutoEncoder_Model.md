@@ -8,10 +8,7 @@ My goal is to accurately decompose tensors and detect and track trend changes wi
 
 The objective of this experiment was to confirm if
 
-Sample Video file
 
-{% include video id="N-8QUdOdXls" provider="youtube" %}
 
-Expected theme changes in the video
 
-{% include figure image_path="/assets/images/TSNEdVectors.png" alt="Image not availalbe right now" caption="Latent vectors of AE projected to 2D space" %}
+![TNSEImage](/assets/images/TSNEdVectors.png)
