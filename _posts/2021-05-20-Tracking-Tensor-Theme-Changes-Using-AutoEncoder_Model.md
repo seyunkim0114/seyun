@@ -8,7 +8,14 @@ My goal is to accurately decompose tensors and detect and track trend changes wi
 
 The objective of this experiment was to confirm if
 
+sample video
+*[Source](https://www.youtube.com/watch?v=N-8QUdOdXls)*
 
 
+TNSE image
+![TNSEImage](/assets/images/TSNEdVectors.png "Latent vectors of AutoEncoder projected to 2D space")
 
-![TNSEImage](/assets/images/TSNEdVectors.png)
+<figure>
+  <img src="/assets/images/TNSEdVectors.png" alt="TNSE Plot of Latent Vectors">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
