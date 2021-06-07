@@ -1,5 +1,5 @@
 ---
-title: Paper Review - TensorCast: Forecasting with Context Using Coupled Tensors
+title: Paper Review - TensorCast Forecasting with Context Using Coupled Tensors
 layout: presentation
 powerPointUrl: https://onedrive.live.com/embed?resid=E1850AB86A00C4E2%217550&amp;authkey=%21AGDNYhP3A27VMSI&amp;em=2&amp;wdAr=1.3333333333333333
 ---
