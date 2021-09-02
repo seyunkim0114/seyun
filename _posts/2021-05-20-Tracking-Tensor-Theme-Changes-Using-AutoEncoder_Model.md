@@ -12,12 +12,12 @@ To capture theme changes in online setting, we must analyze each incoming tensor
 
 To test the method, the author used a video that has several distinct theme change in each section. The video is shown below. The result was that the encoded structures of each section were mapped nearby and as the section changed gradually, the location of the mapped structures moved from one cluster to another. This shows that this method is effective in tracking theme changes in streaming tensor. Possible improvements of this method would be to reduce memory usage and update T-SNE so that mapping can occur in online setting as well.
 
-<img src="../assets/aevec.png" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
+<img src="../assets/aevec.PNG" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
 
 <video width="320" height="240" controls>
   <source src="./assets/10 seconds Animation_360p.mp4" type="video/mp4">
 </video>
 
-<img src="./assets/change.png" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
+<img src="./assets/change.PNG" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
 
-<img src="./assets/res.png" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
+<img src="./assets/res.PNG" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
