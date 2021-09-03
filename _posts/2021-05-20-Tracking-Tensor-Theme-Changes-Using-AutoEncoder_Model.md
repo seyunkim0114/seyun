@@ -21,3 +21,5 @@ To test the method, the author used a video that has several distinct theme chan
 <img src="../assets/images/change.PNG" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
 
 <img src="../assets/images/res.PNG" alt="Image not available at the moment" style="height: 100px; width:100px;"/>
+
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/aevec.png) {: .full}
